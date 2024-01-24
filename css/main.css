@@ -140,7 +140,8 @@ a{
 .img2{
   width: 1349px;
 height: 796px;
-margin-left: 150px;
+margin-left: 100px;
+flex-shrink: 0 ;
 
 }
 
