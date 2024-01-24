@@ -140,7 +140,6 @@ a{
 .img2{
   width: 1500px;
 height: 500px;
-
 flex-shrink: 0 ;
 
 }
@@ -225,7 +224,7 @@ button {
         border-radius: 20px;
         background: #7d2ae8;
         transition: all 0.2s ease;
-        margin-left: 615px;
+        margin-left: 650px;
         font-size: 15px;
 
     }
